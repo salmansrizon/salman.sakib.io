@@ -1064,7 +1064,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   overflow: hidden;
   position: relative;
   }
-  .scroll-left p {
+.scroll-left p {
   position: fixed;
   color: red;
   text-decoration: solid;
